@@ -1,2 +1,2 @@
 # rust-projects
-My rust language learning projects
+Beginner projects for learning Rust programming language.
